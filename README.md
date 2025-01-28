@@ -5,6 +5,7 @@
 * ORM sequelize e sequelize-cli
 * Ferramenta eslint
 * Ferramenta nodemon
+* Estrutura MVC
 
 ## Construção de 4 entidades relacionais no SQL:
 ->Pessoas, Cursos, Matriculas e Categorias  
